@@ -1,0 +1,5 @@
+INFO 2023-09-28 17:27:14,571 autoreload 6480 12844 Watching for file changes with StatReloader
+INFO 2023-09-28 17:27:19,368 views 6480 10400 О себе
+INFO 2023-09-28 17:27:19,369 basehttp 6480 10400 "GET /about/ HTTP/1.1" 200 241
+INFO 2023-09-28 17:27:21,675 views 6480 10400 Главная страница
+INFO 2023-09-28 17:27:21,676 basehttp 6480 10400 "GET / HTTP/1.1" 200 261
