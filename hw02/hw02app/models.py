@@ -32,5 +32,5 @@ class Order(models.Model):
     order_date = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):
-        return f'Customer: {self.customer}, product: {self.product}, total_price: {self.total_price}, ' \
-               f'order_date: {self.order_date}'
+        return f'Customer: {self.customer}, products: {", ".join(str(product) for product in self.products.all())}, ' \
+               f'total_price: {self.total_price}, order_date: {self.order_date}'

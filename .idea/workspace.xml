@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c292a702-834d-4c15-a1ac-054dd1b7f9fb" name="Changes" comment="commit log fix?">
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c292a702-834d-4c15-a1ac-054dd1b7f9fb" name="Changes" comment="hw02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/hw02/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02/hw02/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw02/hw02/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02/hw02/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw02/hw02/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02/hw02app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw02/hw02app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw02/hw02app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw02/hw02app/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695908091024</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hw02">
+      <created>1696100833847</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696100833847</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="commit log fix?" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit log fix?" />
+    <MESSAGE value="hw02" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw02" />
   </component>
 </project>
