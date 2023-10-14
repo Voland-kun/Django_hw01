@@ -62,6 +62,13 @@ class ProductAdmin(admin.ModelAdmin):
                 'fields': ['date'],
             }
         ),
+        (
+            'Изображение',
+            {
+                'classes': ['collapse'],
+                'fields': ['photo'],
+            }
+        ),
     ]
 
     def show_image_300(self, obj):
