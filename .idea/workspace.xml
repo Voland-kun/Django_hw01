@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c292a702-834d-4c15-a1ac-054dd1b7f9fb" name="Changes" comment="hw04">
+    <list default="true" id="c292a702-834d-4c15-a1ac-054dd1b7f9fb" name="Changes" comment="hw05 photo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw02/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/hw02/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/.idea/hw01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/hw01/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/hw01/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/hw01/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/hw01/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/hw01/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/hw01app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/hw01app/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/hw01app/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/hw01app/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/hw01app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/hw01app/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/hw01app/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/hw01app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/log/django.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw01/manage.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hw02/hw02/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw02/hw02/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw02/hw02app/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw02/hw02app/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw02/hw02app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw02/hw02app/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696987576294</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="hw05">
+      <created>1697290689313</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697290689313</updated>
+    </task>
+    <task id="LOCAL-00007" summary="hw05 photo">
+      <created>1697290943105</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697290943105</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +164,8 @@
     <MESSAGE value="hw02" />
     <MESSAGE value="hw03" />
     <MESSAGE value="hw04" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw04" />
+    <MESSAGE value="hw05" />
+    <MESSAGE value="hw05 photo" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw05 photo" />
   </component>
 </project>
